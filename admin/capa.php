@@ -1,0 +1,1 @@
+<h3 align="center">Seja bem-vindo! <span><?php echo $_SESSION['nomeUSUARIO'];?></span></h3>
